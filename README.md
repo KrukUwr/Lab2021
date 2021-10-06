@@ -26,11 +26,11 @@
 
 ## Tematy projektów zaliczeniowych
 
-- [Lista tematów](ListyZadan/tematyProjektów.md)
+- [Lista tematów](ListaZadan/tematyProjektów.md)
 
 ## Laboratorium 1
 
-- [Lista](ListyZadan/01_ListaZadania.md)
+- [Lista](ListaZadan/01_ListaZadania.md)
 
  
 
