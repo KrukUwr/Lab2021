@@ -4,8 +4,8 @@
 
 ## Warunki zaliczenia laboratorium:
 
-1) Uzyskanie co najmniej 2 'plusów' na zajęciach.
-2) Oddanie i 'obronienie' projektu zaliczeniowego.
+1) Uzyskanie co najmniej 2 '+' na zajęciach.
+2) Prezentacja oraz 'obrona' projektu zaliczeniowego.
 
 ### Projekt zaliczeniowy
 
@@ -17,11 +17,10 @@
 
 #### Harmonogram
 
->- **12.11.20** Laboratoria - konsultacje, omównienie zaproponowanych tematów.
->- Do **26.11.20** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- Do **03.12.20** prowadzący podejmą decyzję o akceptacji zaproponowanych tematów.
->- **Styczeń 2020** Laboratoria - konsultacje.
->- **28.01.20, 03.02.20** - Prezentacje projektów.
+>- **19.11.21** Laboratoria - omówienie tematów projektów.
+>- Do **26.11.21** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
+>- **25.01.22, 28.01.22** Laboratoria - konsultacje.
+>- **01.02.22, 04.02.22** - Prezentacje projektów.
 
 <br>
 
@@ -32,78 +31,6 @@
 ## Laboratorium 1
 
 - [Lista](ListyZadan/01_ListaZadania.md)
-- [Rozwiązania](ListyZadan/01_ListaRozwiazania.R)
- 
-## Laboratorium 2
- 
- - [Lista](ListyZadan/02_ListaEksploracja.md)
- - [Rozwiązania](ListyZadan/02_ListaRozwiazania.R)
- 
-## Laboratorium 3
 
-- [Lista](ListyZadan/03_ListaAnalizaSkupien.md)
-- [Rozwiązania](ListyZadan/03_ListaRozwiazania.R)
  
-## Laboratorium 4
 
-- [Lista](ListyZadan/04_ListaBłądPredykcji.md)
-- [Rozwiązania](ListyZadan/04_ListaRozwiazania.R)
-- [Prezentacja](ListyZadan/Laboratorium4.pdf)
- 
-## Laboratorium 5
-
-- omówienie tematów projektów/konsultacje
- 
-## Laboratorium 6
-
-- [Lista](ListyZadan/06_ListaDrzewaLasy.md)
-- [Rozwiązania](ListyZadan/06_RozwiazaniaZadan.R)
-
-##  Laboratorium 7
-
-- [Lista](ListyZadan/07_ListaOutliersAndNAs.md)
-- [Rozwiązania](ListyZadan/07_RozwiazaniaZadan.R)
- 
-## Laboratorium 8
-
-- [Lista](ListyZadan/08_ListaPCA.md)
-- [Rozwiązania](ListyZadan/08_ListaRozwiazania.R)
-- [Prezentacja](ListyZadan/08_PrezentacjaPCA.pdf)
-
-## Laboratorium 9
-
-- [Lista](ListyZadan/09_ListaRegresjaLiniowa.md)
-- [Rozwiązania](ListyZadan/09_ListaRozwiazania.r)
-- [Prezentacja](ListyZadan/09_PrezentacjaRegresja.pdf)
- 
- ## Laboratorium 10
- 
-- [Lista](ListyZadan/10_ListaDoborCech.md)
-- [Rozwiązania](ListyZadan/10_ListaRozwiazania.r)
-- [Sieci neuronowe - model per sprawa i agregacja na portfele](ListyZadan/10_ListaRozwiazaniaNN.r)
-- [DeepLearningBooklet](ListyZadan/DeepLearningBooklet.pdf)
-
- ## Laboratorium 11
-
-- [Lista](ListyZadan/11_ListaGLM.md)
-- [Rozwiązania](ListyZadan/11_ListaRozwiazania.r)
-  
- ## Laboratorium 12
- 
-- [Lista](ListyZadan/12_ListaGAM.md)
-- [Rozwiązania](ListyZadan/12_ListaRozwiazania.R)
-  
- ## Laboratorium 13
- 
-- [Lista](ListyZadan/13_ListaPorownywanie.md)
-- [Rozwiązania](ListyZadan/13_ListaRozwiazania.R)
-- [Prezentacja](ListyZadan/13_PrezentacjaPorownywanie.pdf)
-- UWAGA - na wykładzie 27 stycznia odbędą się konsultacje projektowe
-
- ## Laboratorium 14 - 28.01.21
- 
- - prezentacje projektów
- 
- ## Laboratorium 15 (za wykład) - 03.02.21
- 
-- prezentacje projektów
