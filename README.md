@@ -17,9 +17,9 @@
 
 #### Harmonogram
 
->- **19.11.21** Laboratoria - omówienie tematów projektów.
+>- **19.11.21** - Laboratoria - omówienie tematów projektów.
 >- Do **26.11.21** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- **25.01.22, 28.01.22** Laboratoria - konsultacje.
+>- **25.01.22, 28.01.22** - Laboratoria - konsultacje.
 >- **01.02.22, 04.02.22** - Prezentacje projektów.
 
 <br>
