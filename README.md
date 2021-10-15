@@ -31,6 +31,10 @@
 ## Laboratorium 1
 
 - [Lista](ListaZadan/01_ListaZadania.md)
+- [Rozwiązania](ListaZadan/01_ListaRozwiazania.R)
 
+## Laboratorium 2
+
+- [Lista](ListaZadan/02_ListaEksploracja.md)
  
 
