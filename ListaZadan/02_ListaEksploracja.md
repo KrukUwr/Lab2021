@@ -1,7 +1,7 @@
 
 # Zadanie 1
 
-Wczytaj dane z pliku KrukUWr2020.RData, a następnie wyświetl wczytane tabele. 
+Wczytaj dane z pliku KrukUWr2021.RData, a następnie wyświetl wczytane tabele. 
 
 Sprawdź poprawność danych w tabeli cases:
  - Czy dla każdej sprawy suma składowych zadłużenia równa się zadłużeniu całkowitemu?
