@@ -63,5 +63,5 @@ Co można zauważyć?
 Wyznacz wykres liniowy pokazujący skumulowana skuteczność SR w kolejnych miesiącach obsługi dla następujących typów spraw:
 - SR w sprawach bez kontaktu (zarówno telefoniczny jak i wizyta)
 - SR w sprawach z kontaktem
-- SR w sprawach z ugód?
+- SR w sprawach z ugodą?
 - SR w sprawach przekazanych do sądu.
