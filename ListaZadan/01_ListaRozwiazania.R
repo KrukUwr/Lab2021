@@ -169,6 +169,7 @@ toa_components <- all_cases[,.SD, .SDcols=selected_columns]
 # Zadanie 5 -------------------------------------------------------------------------------------------------------
 
 # Połącz tabele `events` (kod poniżej) oraz `all_cases` przy użyciu kolumn `Id`. 
+# Tabele należy połączyć w taki sposób, aby zachować oryginalną liczbę wierszy z tabeli `all_cases`.
 # Zwróć uwagę, że w tabeli `events` jedno id może wystąpić więcej niż raz.
 # Tak wygenerowaną tabelę zapiszcie do pliku csv i RData.
 # Informacje o JOINowaniu tabel klasy `data.table` możecie znaleźć w poniższym linku:
