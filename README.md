@@ -36,5 +36,9 @@
 ## Laboratorium 2
 
 - [Lista](ListaZadan/02_ListaEksploracja.md)
- 
+- [Rozwiązania](ListaZadan/02_ListaRozwiazania.R)
 
+## Laboratorium 3
+
+- [Lista](ListaZadan/03_ListaAnalizaSkupien.md)
+ 
