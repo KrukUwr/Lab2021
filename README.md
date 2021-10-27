@@ -41,4 +41,8 @@
 ## Laboratorium 3
 
 - [Lista](ListaZadan/03_ListaAnalizaSkupien.md)
+
+## Laboratorium 4
+
+- [Lista](ListaZadan/04_ListaBłądPredykcji.md)
  
