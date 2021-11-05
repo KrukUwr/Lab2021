@@ -1,6 +1,6 @@
 
 
-load("KrukUWr2020.RData")
+load("KrukUWr2021.RData")
 library(data.table)
 
 set.seed(1)
