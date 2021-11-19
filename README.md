@@ -49,4 +49,9 @@
 - [Rozwiązania](ListaZadan/04_ListaRozwiazania.R)
 - [Prezentacja](ListaZadan/Laboratorium4.pdf)
 
+## Laboratorium 5
+
+- [Notatki](ListaZadan/projekty_tablica.pdf)
+
+
  
