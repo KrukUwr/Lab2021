@@ -53,5 +53,6 @@
 
 - [Notatki](ListaZadan/projekty_tablica.pdf)
 
+## Laboratorium 6
 
- 
+- [Lista](ListaZadan/06_ListaDrzewaLasy.md)
