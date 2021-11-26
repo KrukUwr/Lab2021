@@ -56,3 +56,8 @@
 ## Laboratorium 6
 
 - [Lista](ListaZadan/06_ListaDrzewaLasy.md)
+- [Rozwiązania](ListaZadan/06_RozwiazaniaZadan.R)
+
+## Laboratorium 7
+
+- [Lista](ListaZadan/07_ListaOutliersAndNAs.md)
