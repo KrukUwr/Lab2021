@@ -61,6 +61,7 @@
 ## Laboratorium 7
 
 - [Lista](ListaZadan/07_ListaOutliersAndNAs.md)
+- [Rozwiązania](ListaZadan/07_RozwiazaniaZadan.R)
 
 ## Laboratorium 8
 
