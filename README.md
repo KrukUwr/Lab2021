@@ -75,3 +75,7 @@
 - [Rozwiązania](ListaZadan/09_ListaRozwiazania.r)
 - [Prezentacja](ListaZadan/09_PrezentacjaRegresja.pdf)
 - [Excel](ListaZadan/09_RegresjaLiniowa.xlsx)
+
+## Laboratorium 10
+
+- [Lista](ListaZadan/10_ListaDoborCech.md)
