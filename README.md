@@ -79,3 +79,4 @@
 ## Laboratorium 10
 
 - [Lista](ListaZadan/10_ListaDoborCech.md)
+- [DeepLearning w H2O](ListaZadan/DeepLearningBooklet.pdf)
