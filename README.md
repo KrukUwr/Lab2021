@@ -80,3 +80,5 @@
 
 - [Lista](ListaZadan/10_ListaDoborCech.md)
 - [DeepLearning w H2O](ListaZadan/DeepLearningBooklet.pdf)
+- [Rozwiązania](ListaZadan/10_ListaRozwiazania.r)
+- [Rozwiązania NN](ListaZadan/10_ListaRozwiazaniaNN.r)
