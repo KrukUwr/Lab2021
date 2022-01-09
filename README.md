@@ -82,3 +82,7 @@
 - [DeepLearning w H2O](ListaZadan/DeepLearningBooklet.pdf)
 - [Rozwiązania](ListaZadan/10_ListaRozwiazania.r)
 - [Rozwiązania NN](ListaZadan/10_ListaRozwiazaniaNN.r)
+
+## Laboratorium 11
+
+- [Lista](ListaZadan/11_ListaGLM.md)
