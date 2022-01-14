@@ -92,6 +92,6 @@
 
 - [Lista](ListaZadan/12_ListaGAM.md)
 
-## Laboratorium 13
+## Laboratorium 13/Konsultacje
 
 - [Lista](ListaZadan/13_ListaPorownywanie.md)
