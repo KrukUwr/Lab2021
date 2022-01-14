@@ -87,3 +87,11 @@
 
 - [Lista](ListaZadan/11_ListaGLM.md)
 - [Rozwiązania](ListaZadan/11_ListaRozwiazania.r)
+
+## Laboratorium 12
+
+- [Lista](ListaZadan/12_ListaGAM.md)
+
+## Laboratorium 13
+
+- [Lista](ListaZadan/13_ListaPorownywanie.md)
