@@ -96,3 +96,5 @@
 ## Laboratorium 13/Konsultacje
 
 - [Lista](ListaZadan/13_ListaPorownywanie.md)
+- [Rozwiązania](ListaZadan/13_ListaRozwiazania.r)
+- [Prezentacja](ListaZadan/13_PrezentacjaPorownywanie.pdf)
