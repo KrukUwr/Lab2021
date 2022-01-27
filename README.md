@@ -98,3 +98,5 @@
 - [Lista](ListaZadan/13_ListaPorownywanie.md)
 - [Rozwiązania](ListaZadan/13_ListaRozwiazania.R)
 - [Prezentacja](ListaZadan/13_PrezentacjaPorownywanie.pdf)
+
+## Laboratorium 14 - Konsultacje
